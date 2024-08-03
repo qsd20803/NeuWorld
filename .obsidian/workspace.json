@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神經叢書/神經動力學書單.md",
+                "file": "測試同步/測試同步kevin chin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神經叢書/神經動力學書單.md",
+                "file": "測試同步/測試同步kevin chin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神經叢書/神經動力學書單.md",
+                "file": "測試同步/測試同步kevin chin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神經叢書/神經動力學書單.md"
+                "file": "測試同步/測試同步kevin chin.md"
               }
             }
           }
@@ -143,13 +143,16 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "4648c7594cc0394b",
   "lastOpenFiles": [
-    "README.md",
     "神經叢書/神經動力學書單.md",
+    "測試同步/測試同步kevin chin.md",
+    "測試同步",
+    "README.md",
     "Welcome.md",
     "神經叢書"
   ]
