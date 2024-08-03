@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "8f120035a28acfde",
+    "type": "split",
+    "children": [
+      {
+        "id": "65ec1fda5b139626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a87be5308e0b611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神經叢書/神經動力學書單.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb70e756982d6fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35e8d1873c04984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4648c7594cc0394b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84791804e1df7c80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d98f19ba64ec8f86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5ff0d4c23968883",
+    "type": "split",
+    "children": [
+      {
+        "id": "9feba4616d01cf55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aec312694e76e89a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "神經叢書/神經動力學書單.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b853a25ca6e9d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "神經叢書/神經動力學書單.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c51d44b7e094241",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d55b85161136837b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "神經叢書/神經動力學書單.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "4648c7594cc0394b",
+  "lastOpenFiles": [
+    "神經叢書/神經動力學書單.md",
+    "Welcome.md",
+    "神經叢書"
+  ]
+}
